@@ -1,0 +1,11 @@
+public class Cal{
+
+
+public static void main(String arr[]){
+
+System.out.println("manoj");
+
+}
+
+
+}
