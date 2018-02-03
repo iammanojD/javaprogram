@@ -1,0 +1,6 @@
+public calss m{
+
+System.out.println("abc");
+
+
+}
